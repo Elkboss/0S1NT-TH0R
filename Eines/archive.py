@@ -13,9 +13,10 @@ busqueda = input(Fore.GREEN+"Introdueix la teva cerca: "+Style.RESET_ALL)
 
 options = Options()
 options.headless = True
-driver = webdriver.Chrome(options=options, executable_path=("C:/Users/Elkboss/Desktop/chromedriver.exe"))
+driver = webdriver.Chrome(options=options, executable_path=("C:PATHTOYOURDRIVER/chromedriver.exe"))
+
+# Search Query
 driver.get('https://archive.org/search.php?query={0}'.format(str(busqueda)))
-#driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 time.sleep(5)
 element = driver.find_elements_by_class_name("item-ia.hov")
 print(len(element))
