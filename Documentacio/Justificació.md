@@ -1,5 +1,5 @@
 # Justificació
-## Despcripció
+## Descripció
 
 **Osint Thor** es un conjunt d’eines d’investigació d’ús privat creades amb l’objectiu de donar resposta a les carències actuals del mercat. Permet extreure dades sense processar, concretes i precises permetent a l’analista estalviar molt temps de cerca i anàlisi de resultats. 
 
