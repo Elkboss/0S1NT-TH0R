@@ -1,6 +1,6 @@
 # Conclusions finals
 ## **Inconvenients i millores**
-Durant el transcurs de la realització del projecte, i sobretot, un cop desplegades les eines en un entorn professional han sortit inconvenients i diferentes característiques a millorar, a continuació s’enumeren aquestes i es realitza una reflexió de millora:
+Durant el transcurs de la realització del projecte, i sobretot, un cop desplegades les eines en un entorn professional han sortit inconvenients i diferentes característiques a millorar, a continuació s’enumeren aquestes i es realitza una reflexió d'aquests aspectes:
 
 - `` La llibreria “Selenium”, utilitzada en més d’una eina no es tan ràpida com es desitjaria, el procès de scraping es considerablement més lent que altres opcions presents al mercat. Tot i això es destaca que aquesta llibreria proporciona molta flexibilitat a l’hora d’extreure informació de pàgines web i presenta funcionalitats que la fan molt fàcil d’usar.``
 
