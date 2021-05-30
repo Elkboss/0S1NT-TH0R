@@ -19,7 +19,7 @@ Primer de tot es realitzarà un anàlisi tipus "Estat de l'Art" amb l'objectiu d
 En concret amb aquest projecte tenim els següents objectius:
 - Millorar considerablement els resultats obtinguts dels motors de búsqueda.
 - Obtenir informació dels usuaris d'un servei de pujada de contingut online
-- Automatització de les monitoritzacacions, reduir el temps invertit per l'analista.
+- Automatització de les monitoritzacions, reduir el temps invertit per l'analista.
 - Dissenyar un sistema d'alerta temprana fàcil de desplegar i que proporcioni informació de l'atacant.
 
 ## Abast
