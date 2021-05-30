@@ -1,4 +1,4 @@
-# 🙏 Nickname Checker 🙏
+# 🙏 Nickname Checker
 ### 🔎 Que és
 Nickname Checker es una eina modificada de forma privada del repositori “Maigret(1)”, permet la búsqueda d’un nom d’usuari en múltiples xarxes socials de forma automàtica, a més a més proporciona els resultats de forma esquemàtica. 
 
