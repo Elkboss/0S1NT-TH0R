@@ -1,13 +1,13 @@
-# TgWatcher
-### Que és?
+# 💻 TgWatcher
+### 🔎 Que és?
 TG Watcher es un script de python connectat a la API de Telegram a través d’un bot que s'afegeix a un grup d’aquesta plataforma i detecta conversacions que coincideixin amb els paràmetres indicats.
 
-### Quin es el seu objectiu?
+### 🎯 Quin es el seu objectiu?
 L’objectiu d’aquesta eina es reduir el temps d’anàlisi i recerca d’informació per part de l’analista, permetent així una optimització considerable i la resolució del problema referent a la quantitat elevada d'informació que un analista de ciber-intel·ligència ha d’analitzar.
 
 Els paràmetres a monitoritzar s’indiquen prèviament dins del codi i s’accepten termes en tot tipus d’idioma.
 
-### Característiques principals
+### 🤔 Característiques principals
 - Detecció en temps real.
 - Constant execucció.
 - Registre de totes les coincidències.
