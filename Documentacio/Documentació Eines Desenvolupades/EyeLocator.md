@@ -1,13 +1,13 @@
-# EyeLocator
+# 👀 EyeLocator
 
 
-### Que és?
+### 🔎 Que és?
 Eye Locator es una eina dissenyada per facilitar l’extracció d’informació de fonts obertes i optimitzar el resultats en les búsquedes a través de motors de cerca. 
 Es un programa que únicament interactua amb APIs públiques i privades. Eyelocator empra diferents API's públiques i privades per cerca informació i rellevant. 
 
 La principal característica important d’aquesta eina es la seva facilitat d’ús, s’executa una ordre a través d’un terminal i immediatament el programa et pregunta per el terme que vols cercar. Immediatament el programari realitzarà les consultes i ens donarà resultats.
 
-### Quines integracions utilitza?
+###  📝 Quines integracions utilitza?
 Nom API | Tipus | Enllaç
 --- | --- | ---
 PSBDMP | Cercador de Filtracions | *psbdmp.ws*
