@@ -31,7 +31,7 @@ En contra posició no tot allò relacionat amb l'OSINT presenta problemes, segon
 
 - Rendibilitat, amb recursos molt limitats pots accedir a una gran quantitat d’informació.
 
-- Problemes legals, ja que tota la informació és pública no s’està cometent cap delicte a l’accedir a aquesta informació.
+- Nuls problemes legals, ja que tota la informació és pública no s’està cometent cap delicte a l’accedir a aquesta informació.
 
 
 
