@@ -18,7 +18,7 @@ Per desplegar la infraestructura necessitarem els següents recursos:
 
 Els criteris que poden despertar l’atenció de l’atacant son tots aquells que contenen informació confidencial, contrasenyes, informació personal, correus i fotografies.
 
-Un recurs molt utilitzat per publicar aquestes infraestructures es Pastebin (2.
+Un recurs molt utilitzat per publicar aquestes infraestructures es Pastebin (2)
 
 ### Altre informació rellevant
 Es poden incluir hashtags i paraules clau per posicionar millor el Honeypot un cop aquest sigui publicat.
